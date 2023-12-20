@@ -2,6 +2,7 @@
 Hi, I'm Frontend React developer.
 ### Main stack:
 * React
+* Typescript
 * Vite
 * Redux + Redux Toolkit + RTK Query
 Also i'm coding a little bit of backend on Java. And there are:
