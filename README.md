@@ -10,7 +10,7 @@ Also i'm coding a little bit of backend on Java. And there are:
 * JWT Authentication
 * SQL DB
 ### My stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woodemai)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woodemai)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=woodemai))
 <!--
 **woodemai/woodemai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
