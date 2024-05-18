@@ -8,7 +8,7 @@ Web Developer
 * 🖥  See my portfolio at [Portfolio](http://portfolio-woodemai.vercel.app/)
 * ✉️  You can contact me at [n.savchenkoo73@gmail.com](mailto:n.savchenkoo73@gmail.com)
 * 🚀  I'm currently working on [Study Buddy](http://github.com/woodemai/study-buddy)
-* 🧠  I'm learning WebSockets, RTK Query
+* 🧠  I'm learning how to build big application
 
 ### Skills
 
